@@ -1,5 +1,7 @@
 # rag-gemma-local
 
+[![Documentation Status](https://readthedocs.org/projects/rag-gemma-local/badge/?version=latest)](https://rag-gemma-local.readthedocs.io/en/latest/?badge=latest)
+
 Tiny on-premise RAG scaffold for English and Japanese documents using local
 embeddings, a local vector store, and a Gemma-compatible local LLM runtime.
 
